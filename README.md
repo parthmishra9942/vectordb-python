@@ -2,6 +2,8 @@
 
 <div align="center">
 
+[![Live Portfolio](https://img.shields.io/badge/Portfolio-parthh.runs--on.dev-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://parthh.runs-on.dev)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![Language: Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python)](https://www.python.org/)
 [![Index: HNSW Graph](https://img.shields.io/badge/Index-HNSW%20Graph-orange?style=for-the-badge)](https://github.com/parthmishra9942/vectordb-python)
