@@ -129,7 +129,7 @@ Navigate to `http://localhost:5000` to interactively query and inspect your vect
 
 **Parth Mishra**  
 - GitHub: [@parthmishra9942](https://github.com/parthmishra9942)  
-- Portfolio: [ai-portfolio-beige-xi.vercel.app](https://ai-portfolio-beige-xi.vercel.app/)  
+- Portfolio: [parthh.runs-on.dev](https://parthh.runs-on.dev)  
 - LinkedIn: [linkedin.com/in/parth-mishra-4b7578242](https://linkedin.com/in/parth-mishra-4b7578242)
 
 ---
